@@ -84,9 +84,7 @@
             "2a0d7908.87dbde"
         ],
         "x": 74,
-        "y": 2119,
-        "w": 912,
-        "h": 182
+        "y": 2119
     },
     {
         "id": "ad8faa87.ec0ee8",
@@ -115,9 +113,7 @@
             "28701bdc.464854"
         ],
         "x": 14,
-        "y": 1299,
-        "w": 1532,
-        "h": 222
+        "y": 1299
     },
     {
         "id": "34219648.68b2d2",
@@ -146,9 +142,7 @@
             "4981d535.47513c"
         ],
         "x": 14,
-        "y": 919,
-        "w": 1362,
-        "h": 342
+        "y": 919
     },
     {
         "id": "36ea01e7.5b4cee",
@@ -190,9 +184,7 @@
             "f1751431.6ec13"
         ],
         "x": 14,
-        "y": 259,
-        "w": 1522,
-        "h": 622
+        "y": 259
     },
     {
         "id": "9832714f.f82cf",
@@ -222,9 +214,7 @@
             "a62cc615.c13da8"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1282,
-        "h": 362
+        "y": 1679
     },
     {
         "id": "97c1d63a.ce2dc",
@@ -259,9 +249,7 @@
             "ac250e1c.9c46"
         ],
         "x": 34,
-        "y": 2319,
-        "w": 1442,
-        "h": 402
+        "y": 2319
     },
     {
         "id": "63d0b15a.dac21",
@@ -315,9 +303,7 @@
             "54c44181.90bee"
         ],
         "x": 34,
-        "y": 2759,
-        "w": 1652,
-        "h": 602
+        "y": 2759
     },
     {
         "id": "cf3be9f2.e63838",
@@ -338,9 +324,7 @@
             "9be7f92d.932f38"
         ],
         "x": 14,
-        "y": 79,
-        "w": 892,
-        "h": 142
+        "y": 79
     },
     {
         "id": "a902a85c0cbfbc56",
@@ -1013,7 +997,7 @@
         "payload": "<action>     <type>createProject</type>     <globalId>3f8e2055-eba6-47cc-83d0-9d9fa1186766</globalId>     <name>Test auto upload Nicolaas2</name>     <title>Sint-Lutgart Test2</title>     <externalProjectRef>55fc16b5-2017-4380-9ab1-818b74ba51a16</externalProjectRef>     <projectCategory>SchoolTest2</projectCategory>     <projectAction>         <sendEmailOnPublish>true</sendEmailOnPublish>         <publishWhenDone>true</publishWhenDone>     </projectAction>     <customer>         <name>testcustomername</name>         <title>testtitle</title>         <email>nicolaaswauman@gmail.com</email>     </customer>     <upload>         <scenes>             <scene>             <allowRevisionUpload>true</allowRevisionUpload>                 <name> Shootpersoon 1</name>                 <uploadRequest>                     <photo>                         <clientRemotePath>C:\\Users\\Nicolaas\\Documents\\schoolFotografie\\test6_18-8-2022\\shoot\\K2A_1_Amandine_Block</clientRemotePath>                         <width>0</width>                         <height>0</height>                         <lastModified>2020-12-08T03:46:23.221Z</lastModified>                     </photo>                 </uploadRequest>             </scene>             <scene>                                       </scene>         </scenes>     </upload> </action> <action>     <type>createProject</type>     <globalId>3f8e2055-eba6-47cc-83d0-9d9fa1186765</globalId>     <name>Test auto upload Nico3</name>     <title>Sint-Lutgart Test3</title>     <externalProjectRef>55fc16b5-2017-4380-9ab1-818b74ba51a15</externalProjectRef>     <projectCategory>SchoolTest</projectCategory>     <projectAction>         <sendEmailOnPublish>true</sendEmailOnPublish>         <publishWhenDone>true</publishWhenDone>     </projectAction>     <customer>         <name>testcustomername</name>         <title>testtitle</title>         <email>nicolaaswauman@gmail.com</email>     </customer>     <upload>         <scenes>             <scene>             <allowRevisionUpload>true</allowRevisionUpload>                 <name> Shootpersoon 2</name>                 <uploadRequest>                     <photo>                         <clientRemotePath>C:\\Users\\Nicolaas\\Documents\\schoolFotografie\\test6_18-8-2022\\shoot\\K2A_2_Otto_Claus</clientRemotePath>                         <width>0</width>                         <height>0</height>                         <lastModified>2020-12-08T03:46:23.221Z</lastModified>                     </photo>                 </uploadRequest>             </scene>             <scene>                                       </scene>         </scenes>     </upload> </action>",
         "payloadType": "str",
         "x": 200,
-        "y": 80,
+        "y": 100,
         "wires": [
             [
                 "da49a8cd08952267"
