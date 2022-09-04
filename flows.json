@@ -115,40 +115,9 @@
             "28701bdc.464854"
         ],
         "x": 14,
-        "y": 1299,
+        "y": 1359,
         "w": 1532,
         "h": 222
-    },
-    {
-        "id": "34219648.68b2d2",
-        "type": "group",
-        "z": "cd55794b.d22868",
-        "name": "Opname module",
-        "style": {
-            "label": true,
-            "stroke": "#92d04f",
-            "fill": "#ffdf7f",
-            "color": "#6f2fa0"
-        },
-        "nodes": [
-            "4d030adc.1f70e4",
-            "7dd3c32a.2daca4",
-            "ac83b1eb.7e39f",
-            "8cebb90.d075848",
-            "5a74f19a.832898",
-            "15c618bf.9faa27",
-            "dd603d2.505184",
-            "5d9a0cd1.62db9c",
-            "cea24319.531ea",
-            "7e891fcc.370c1",
-            "322c97c2.9c48f",
-            "935c641.beb7998",
-            "4981d535.47513c"
-        ],
-        "x": 14,
-        "y": 919,
-        "w": 1362,
-        "h": 342
     },
     {
         "id": "36ea01e7.5b4cee",
@@ -187,12 +156,13 @@
             "3f1ed343.7afb94",
             "d412a530.dd8d78",
             "402ebe61.172cc8",
-            "f1751431.6ec13"
+            "f1751431.6ec13",
+            "4869d7c98dd42fc8"
         ],
-        "x": 14,
+        "x": 34,
         "y": 259,
-        "w": 1522,
-        "h": 622
+        "w": 1532,
+        "h": 662
     },
     {
         "id": "9832714f.f82cf",
@@ -341,6 +311,42 @@
         "y": 79,
         "w": 892,
         "h": 142
+    },
+    {
+        "id": "34219648.68b2d2",
+        "type": "group",
+        "z": "cd55794b.d22868",
+        "name": "Opname module",
+        "style": {
+            "label": true,
+            "stroke": "#92d04f",
+            "fill": "#ffdf7f",
+            "color": "#6f2fa0"
+        },
+        "nodes": [],
+        "x": 34,
+        "y": 919,
+        "w": 112,
+        "h": 40
+    },
+    {
+        "id": "14b0641abf5a232d",
+        "type": "group",
+        "z": "cd55794b.d22868",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [],
+        "x": null,
+        "y": null,
+        "w": 40,
+        "h": 40
     },
     {
         "id": "a902a85c0cbfbc56",
@@ -1012,8 +1018,8 @@
         "topic": "",
         "payload": "<action>     <type>createProject</type>     <globalId>3f8e2055-eba6-47cc-83d0-9d9fa1186766</globalId>     <name>Test auto upload Nicolaas2</name>     <title>Sint-Lutgart Test2</title>     <externalProjectRef>55fc16b5-2017-4380-9ab1-818b74ba51a16</externalProjectRef>     <projectCategory>SchoolTest2</projectCategory>     <projectAction>         <sendEmailOnPublish>true</sendEmailOnPublish>         <publishWhenDone>true</publishWhenDone>     </projectAction>     <customer>         <name>testcustomername</name>         <title>testtitle</title>         <email>nicolaaswauman@gmail.com</email>     </customer>     <upload>         <scenes>             <scene>             <allowRevisionUpload>true</allowRevisionUpload>                 <name> Shootpersoon 1</name>                 <uploadRequest>                     <photo>                         <clientRemotePath>C:\\Users\\Nicolaas\\Documents\\schoolFotografie\\test6_18-8-2022\\shoot\\K2A_1_Amandine_Block</clientRemotePath>                         <width>0</width>                         <height>0</height>                         <lastModified>2020-12-08T03:46:23.221Z</lastModified>                     </photo>                 </uploadRequest>             </scene>             <scene>                                       </scene>         </scenes>     </upload> </action> <action>     <type>createProject</type>     <globalId>3f8e2055-eba6-47cc-83d0-9d9fa1186765</globalId>     <name>Test auto upload Nico3</name>     <title>Sint-Lutgart Test3</title>     <externalProjectRef>55fc16b5-2017-4380-9ab1-818b74ba51a15</externalProjectRef>     <projectCategory>SchoolTest</projectCategory>     <projectAction>         <sendEmailOnPublish>true</sendEmailOnPublish>         <publishWhenDone>true</publishWhenDone>     </projectAction>     <customer>         <name>testcustomername</name>         <title>testtitle</title>         <email>nicolaaswauman@gmail.com</email>     </customer>     <upload>         <scenes>             <scene>             <allowRevisionUpload>true</allowRevisionUpload>                 <name> Shootpersoon 2</name>                 <uploadRequest>                     <photo>                         <clientRemotePath>C:\\Users\\Nicolaas\\Documents\\schoolFotografie\\test6_18-8-2022\\shoot\\K2A_2_Otto_Claus</clientRemotePath>                         <width>0</width>                         <height>0</height>                         <lastModified>2020-12-08T03:46:23.221Z</lastModified>                     </photo>                 </uploadRequest>             </scene>             <scene>                                       </scene>         </scenes>     </upload> </action>",
         "payloadType": "str",
-        "x": 200,
-        "y": 100,
+        "x": 180,
+        "y": 80,
         "wires": [
             [
                 "da49a8cd08952267"
@@ -2019,7 +2025,7 @@
         "payloadType": "json",
         "topic": "topic",
         "topicType": "msg",
-        "x": 120,
+        "x": 140,
         "y": 400,
         "wires": [
             [
@@ -2048,7 +2054,7 @@
         "reduceInit": "",
         "reduceInitType": "",
         "reduceFixup": "",
-        "x": 620,
+        "x": 640,
         "y": 400,
         "wires": [
             [
@@ -2068,7 +2074,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 860,
+        "x": 880,
         "y": 400,
         "wires": [
             [
@@ -2098,7 +2104,7 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 800,
+        "x": 820,
         "y": 300,
         "wires": [
             [
@@ -2138,7 +2144,7 @@
         "topicType": "msg",
         "splitLayout": "",
         "className": "",
-        "x": 110,
+        "x": 130,
         "y": 760,
         "wires": [
             [
@@ -2158,7 +2164,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 600,
+        "x": 620,
         "y": 700,
         "wires": [
             [
@@ -2178,7 +2184,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 470,
+        "x": 490,
         "y": 760,
         "wires": [
             [
@@ -2198,7 +2204,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1090,
+        "x": 1110,
         "y": 600,
         "wires": [
             [
@@ -2218,7 +2224,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 170,
+        "x": 190,
         "y": 700,
         "wires": [
             [
@@ -2238,7 +2244,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 240,
+        "x": 260,
         "y": 600,
         "wires": [
             [
@@ -2258,7 +2264,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 800,
+        "x": 820,
         "y": 600,
         "wires": [
             [
@@ -2280,7 +2286,7 @@
         "format": "{{msg.payload.title}}",
         "layout": "col-center",
         "className": "",
-        "x": 1320,
+        "x": 1340,
         "y": 400,
         "wires": []
     },
@@ -2316,27 +2322,9 @@
         "format": "{{msg.selected}}",
         "layout": "col-center",
         "className": "",
-        "x": 1310,
+        "x": 1330,
         "y": 680,
         "wires": []
-    },
-    {
-        "id": "4d030adc.1f70e4",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "Store geselecteerd kind",
-        "func": "const currentKid = msg.payload;\nlet currentStoredKids=flow.get('kindObject')? flow.get('kindObject'): [];\nlet newCurrentStoredKids;\nconst currentDate = new Date();\n\nif(msg.payload===\"reset\"){\n    currentStoredKids = [];\n}\nif(currentKid&&currentKid.isChecked){\n   // TC in + object maken\n   currentKid.TC.push({in: currentDate, out:0});\n  \n   \n   // opslaan in array in flow\n   currentStoredKids.push(currentKid);\n   newCurrentStoredKids = currentStoredKids;\n   \n \n   \n}\nif(currentKid&& !currentKid.isChecked){\n     // TC uit\n     currentKid.TC[currentKid.TC.length-1].out= currentDate;\n     // verwijder het kind uit de array\n    newCurrentStoredKids = currentStoredKids.filter(kid=>kid.title!==currentKid.title);\n  \n  msg.payload = currentKid;\n     \n}\nflow.set('kindObject',newCurrentStoredKids);\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1190,
-        "y": 1040,
-        "wires": [
-            []
-        ]
     },
     {
         "id": "38b83e11.ac8aaa",
@@ -2359,7 +2347,7 @@
         "payloadType": "str",
         "topic": "topic",
         "topicType": "msg",
-        "x": 100,
+        "x": 120,
         "y": 820,
         "wires": [
             [
@@ -2431,183 +2419,9 @@
         "format": "{{msg.payload[0].Voornaam+ \" \"+msg.payload[0].Naam}}",
         "layout": "col-center",
         "className": "",
-        "x": 1460,
+        "x": 1480,
         "y": 760,
         "wires": []
-    },
-    {
-        "id": "7dd3c32a.2daca4",
-        "type": "ui_button",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "Start shoot kind 1",
-        "group": "a874c6fd.06ff38",
-        "order": 3,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "Start SHOOT",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "date",
-        "topic": "start",
-        "topicType": "str",
-        "x": 130,
-        "y": 960,
-        "wires": [
-            [
-                "5d9a0cd1.62db9c"
-            ]
-        ]
-    },
-    {
-        "id": "ac83b1eb.7e39f",
-        "type": "ui_button",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "Stop shoot kind 1",
-        "group": "a874c6fd.06ff38",
-        "order": 4,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "Stop SHOOT",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "date",
-        "topic": "stop",
-        "topicType": "str",
-        "x": 130,
-        "y": 1000,
-        "wires": [
-            [
-                "5d9a0cd1.62db9c"
-            ]
-        ]
-    },
-    {
-        "id": "8cebb90.d075848",
-        "type": "ui_button",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "Start shoot kind 2",
-        "group": "a874c6fd.06ff38",
-        "order": 6,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "Start SHOOT",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "date",
-        "topic": "start",
-        "topicType": "str",
-        "x": 130,
-        "y": 1080,
-        "wires": [
-            [
-                "cea24319.531ea"
-            ]
-        ]
-    },
-    {
-        "id": "5a74f19a.832898",
-        "type": "ui_button",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "Stop shoot kind 2",
-        "group": "a874c6fd.06ff38",
-        "order": 7,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "Stop SHOOT",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "date",
-        "topic": "stop",
-        "topicType": "str",
-        "x": 130,
-        "y": 1120,
-        "wires": [
-            [
-                "cea24319.531ea"
-            ]
-        ]
-    },
-    {
-        "id": "15c618bf.9faa27",
-        "type": "ui_button",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "Start shoot kind 3",
-        "group": "a874c6fd.06ff38",
-        "order": 9,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "Start SHOOT",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "date",
-        "topic": "start",
-        "topicType": "str",
-        "x": 130,
-        "y": 1180,
-        "wires": [
-            [
-                "7e891fcc.370c1"
-            ]
-        ]
-    },
-    {
-        "id": "dd603d2.505184",
-        "type": "ui_button",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "Stop shoot kind 3",
-        "group": "a874c6fd.06ff38",
-        "order": 10,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "Stop SHOOT",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "date",
-        "topic": "stop",
-        "topicType": "str",
-        "x": 130,
-        "y": 1220,
-        "wires": [
-            [
-                "7e891fcc.370c1"
-            ]
-        ]
     },
     {
         "id": "27ae42be.4982e6",
@@ -2623,7 +2437,7 @@
         "format": "{{msg.payload[1].Voornaam+ \" \"+msg.payload[1].Naam}}",
         "layout": "col-center",
         "className": "",
-        "x": 1460,
+        "x": 1480,
         "y": 800,
         "wires": []
     },
@@ -2641,7 +2455,7 @@
         "format": "{{msg.payload[2].Voornaam+\" \"+msg.payload[2].Naam}}",
         "layout": "col-center",
         "className": "",
-        "x": 1460,
+        "x": 1480,
         "y": 840,
         "wires": []
     },
@@ -2657,33 +2471,14 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1260,
+        "x": 1280,
         "y": 760,
         "wires": [
             [
                 "b02e3d86.b1d85",
                 "27ae42be.4982e6",
-                "3f1ed343.7afb94"
-            ]
-        ]
-    },
-    {
-        "id": "5d9a0cd1.62db9c",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "START/STOP OPNAME KIND 1",
-        "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[0];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\ndoneShootArray.push(leerling);\n        \n//newDoneShootArray = doneShootArray.map(kind=>{\n  //          kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n   //     });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 470,
-        "y": 980,
-        "wires": [
-            [
-                "322c97c2.9c48f"
+                "3f1ed343.7afb94",
+                "4869d7c98dd42fc8"
             ]
         ]
     },
@@ -2699,13 +2494,14 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1260,
+        "x": 1280,
         "y": 820,
         "wires": [
             [
                 "b02e3d86.b1d85",
                 "27ae42be.4982e6",
-                "3f1ed343.7afb94"
+                "3f1ed343.7afb94",
+                "4869d7c98dd42fc8"
             ]
         ]
     },
@@ -2969,52 +2765,12 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 800,
+        "x": 820,
         "y": 760,
         "wires": [
             [
                 "70df9fa4.0be62",
                 "4af73ae1.12ea94"
-            ]
-        ]
-    },
-    {
-        "id": "cea24319.531ea",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "START/STOP OPNAME KIND 2",
-        "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[1];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        \n        doneShootArray.map(kind=>{\n            kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n        });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 470,
-        "y": 1100,
-        "wires": [
-            [
-                "322c97c2.9c48f"
-            ]
-        ]
-    },
-    {
-        "id": "7e891fcc.370c1",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "START/STOP OPNAME KIND 3",
-        "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[2];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        \n        doneShootArray.map(kind=>{\n            kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n        });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 470,
-        "y": 1200,
-        "wires": [
-            [
-                "322c97c2.9c48f"
             ]
         ]
     },
@@ -3031,7 +2787,7 @@
         "stream": false,
         "addname": "",
         "x": 880,
-        "y": 1440,
+        "y": 1500,
         "wires": [
             [
                 "a2e634e6.4a6548"
@@ -3060,7 +2816,7 @@
         "topic": "/home/nicolaas/Documents/schoolshoots",
         "topicType": "str",
         "x": 140,
-        "y": 1440,
+        "y": 1500,
         "wires": [
             [
                 "5897544a.c27fa4"
@@ -3080,7 +2836,7 @@
         "finalize": "",
         "libs": [],
         "x": 1120,
-        "y": 1440,
+        "y": 1500,
         "wires": [
             [
                 "570717de.8d5228"
@@ -3106,7 +2862,7 @@
         "property": "payload",
         "propertyType": "msg",
         "x": 1370,
-        "y": 1440,
+        "y": 1500,
         "wires": [
             []
         ]
@@ -3133,7 +2889,7 @@
         "topic": "topic",
         "topicType": "msg",
         "x": 180,
-        "y": 1380,
+        "y": 1440,
         "wires": [
             [
                 "acacdcbf.be41f"
@@ -3153,31 +2909,10 @@
         "finalize": "",
         "libs": [],
         "x": 540,
-        "y": 1380,
+        "y": 1440,
         "wires": [
             [
                 "1babdd83.6ba232"
-            ]
-        ]
-    },
-    {
-        "id": "322c97c2.9c48f",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "name": "",
-        "func": "let doneShootArray = flow.get('doneShootArray');\nlet recordKidArray = doneShootArray.filter(kind=>kind.TC[kind.TC.length-1].out===0);\nlet recordKidArrayForList = recordKidArray.map(kind=> {return{...kind, title: `${kind.Voornaam} ${kind.Naam} ${kind.Klascode}`} });\n\nmsg.payload = recordKidArrayForList;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 860,
-        "y": 1100,
-        "wires": [
-            [
-                "935c641.beb7998",
-                "4981d535.47513c"
             ]
         ]
     },
@@ -3212,7 +2947,7 @@
         "splitLayout": "",
         "className": "",
         "x": 120,
-        "y": 1480,
+        "y": 1540,
         "wires": [
             [
                 "e0875bef.fe987"
@@ -3232,7 +2967,7 @@
         "stream": false,
         "addname": "",
         "x": 880,
-        "y": 1480,
+        "y": 1540,
         "wires": [
             [
                 "a2e634e6.4a6548"
@@ -3252,7 +2987,7 @@
         "finalize": "",
         "libs": [],
         "x": 360,
-        "y": 1480,
+        "y": 1540,
         "wires": [
             [
                 "21d11546.d7faea"
@@ -3274,7 +3009,7 @@
         "layout": "row-spread",
         "className": "",
         "x": 1450,
-        "y": 1380,
+        "y": 1440,
         "wires": []
     },
     {
@@ -3295,7 +3030,7 @@
         "drop": false,
         "outputs": 1,
         "x": 1100,
-        "y": 1340,
+        "y": 1400,
         "wires": [
             [
                 "28701bdc.464854"
@@ -3315,30 +3050,12 @@
         "finalize": "",
         "libs": [],
         "x": 1290,
-        "y": 1340,
+        "y": 1400,
         "wires": [
             [
                 "6757bdff.0a7dc4"
             ]
         ]
-    },
-    {
-        "id": "4981d535.47513c",
-        "type": "ui_text",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "group": "5aa2d225.1cbb4c",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "name": "Recording",
-        "label": "",
-        "format": "{{msg.payload.length>=1? \"RECORDING\": \" NOT recording\" }}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 1270,
-        "y": 1100,
-        "wires": []
     },
     {
         "id": "fd002cdd.2d24e8",
@@ -4557,7 +4274,7 @@
         "name": "",
         "collection": "Scholen",
         "operation": "find.forEach",
-        "x": 390,
+        "x": 410,
         "y": 400,
         "wires": [
             [
@@ -4575,7 +4292,7 @@
         "name": "",
         "collection": "Scholen",
         "operation": "findOne",
-        "x": 840,
+        "x": 860,
         "y": 700,
         "wires": [
             []
@@ -4591,7 +4308,7 @@
         "name": "",
         "collection": "Scholen",
         "operation": "findOne",
-        "x": 560,
+        "x": 580,
         "y": 600,
         "wires": [
             [
@@ -4610,7 +4327,7 @@
         "collection": "Shoots",
         "operation": "insertOne",
         "x": 840,
-        "y": 1380,
+        "y": 1440,
         "wires": [
             [
                 "6757bdff.0a7dc4",
@@ -4669,7 +4386,7 @@
         "allowHTML": false,
         "outputs": 1,
         "topic": "",
-        "x": 1350,
+        "x": 1370,
         "y": 600,
         "wires": [
             [
@@ -4692,7 +4409,7 @@
         "allowHTML": false,
         "outputs": 1,
         "topic": "",
-        "x": 1100,
+        "x": 1120,
         "y": 760,
         "wires": [
             [
@@ -4715,7 +4432,7 @@
         "allowHTML": false,
         "outputs": 1,
         "topic": "",
-        "x": 1090,
+        "x": 1110,
         "y": 400,
         "wires": [
             [
@@ -4723,25 +4440,6 @@
                 "bf7bb902.caa25"
             ]
         ]
-    },
-    {
-        "id": "935c641.beb7998",
-        "type": "ui_list",
-        "z": "cd55794b.d22868",
-        "g": "34219648.68b2d2",
-        "group": "5aa2d225.1cbb4c",
-        "name": "Record lijst",
-        "order": 2,
-        "width": 6,
-        "height": "8",
-        "lineType": "two",
-        "actionType": "none",
-        "allowHTML": false,
-        "outputs": 0,
-        "topic": "",
-        "x": 1280,
-        "y": 1160,
-        "wires": []
     },
     {
         "id": "1e9fbd9.6cfbcc2",
@@ -5118,6 +4816,396 @@
                 "fd0fbf39.353848"
             ]
         ]
+    },
+    {
+        "id": "801445cb6b461039",
+        "type": "ui_button",
+        "z": "cd55794b.d22868",
+        "name": "Start shoot kind 4",
+        "group": "a874c6fd.06ff38",
+        "order": 11,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Start SHOOT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "start",
+        "topicType": "str",
+        "x": 130,
+        "y": 1280,
+        "wires": [
+            [
+                "13a72161d87adf7a"
+            ]
+        ]
+    },
+    {
+        "id": "fbc1fa5c62d4c2b8",
+        "type": "ui_button",
+        "z": "cd55794b.d22868",
+        "name": "Stop shoot kind 4",
+        "group": "a874c6fd.06ff38",
+        "order": 12,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Stop SHOOT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "stop",
+        "topicType": "str",
+        "x": 130,
+        "y": 1320,
+        "wires": [
+            [
+                "13a72161d87adf7a"
+            ]
+        ]
+    },
+    {
+        "id": "13a72161d87adf7a",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "name": "START/STOP OPNAME KIND 4",
+        "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[2];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        \n        doneShootArray.map(kind=>{\n            kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n        });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 1300,
+        "wires": [
+            [
+                "322c97c2.9c48f"
+            ]
+        ]
+    },
+    {
+        "id": "7dd3c32a.2daca4",
+        "type": "ui_button",
+        "z": "cd55794b.d22868",
+        "name": "Start shoot kind 1",
+        "group": "a874c6fd.06ff38",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Start SHOOT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "start",
+        "topicType": "str",
+        "x": 130,
+        "y": 980,
+        "wires": [
+            [
+                "5d9a0cd1.62db9c"
+            ]
+        ]
+    },
+    {
+        "id": "935c641.beb7998",
+        "type": "ui_list",
+        "z": "cd55794b.d22868",
+        "group": "5aa2d225.1cbb4c",
+        "name": "Record lijst",
+        "order": 2,
+        "width": 6,
+        "height": "8",
+        "lineType": "two",
+        "actionType": "none",
+        "allowHTML": false,
+        "outputs": 0,
+        "topic": "",
+        "x": 1280,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "322c97c2.9c48f",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "name": "",
+        "func": "let doneShootArray = flow.get('doneShootArray');\nlet recordKidArray = doneShootArray.filter(kind=>kind.TC[kind.TC.length-1].out===0);\nlet recordKidArrayForList = recordKidArray.map(kind=> {return{...kind, title: `${kind.Voornaam} ${kind.Naam} ${kind.Klascode}`} });\n\nmsg.payload = recordKidArrayForList;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 1120,
+        "wires": [
+            [
+                "935c641.beb7998",
+                "4981d535.47513c"
+            ]
+        ]
+    },
+    {
+        "id": "5d9a0cd1.62db9c",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "name": "START/STOP OPNAME KIND 1",
+        "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[0];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\ndoneShootArray.push(leerling);\n        \n//newDoneShootArray = doneShootArray.map(kind=>{\n  //          kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n   //     });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 1000,
+        "wires": [
+            [
+                "322c97c2.9c48f"
+            ]
+        ]
+    },
+    {
+        "id": "cea24319.531ea",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "name": "START/STOP OPNAME KIND 2",
+        "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[1];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        \n        doneShootArray.map(kind=>{\n            kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n        });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 1120,
+        "wires": [
+            [
+                "322c97c2.9c48f"
+            ]
+        ]
+    },
+    {
+        "id": "7e891fcc.370c1",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "name": "START/STOP OPNAME KIND 3",
+        "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[2];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        \n        doneShootArray.map(kind=>{\n            kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n        });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 470,
+        "y": 1220,
+        "wires": [
+            [
+                "322c97c2.9c48f"
+            ]
+        ]
+    },
+    {
+        "id": "4981d535.47513c",
+        "type": "ui_text",
+        "z": "cd55794b.d22868",
+        "group": "5aa2d225.1cbb4c",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "Recording",
+        "label": "",
+        "format": "{{msg.payload.length>=1? \"RECORDING\": \" NOT recording\" }}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 1270,
+        "y": 1120,
+        "wires": []
+    },
+    {
+        "id": "ac83b1eb.7e39f",
+        "type": "ui_button",
+        "z": "cd55794b.d22868",
+        "name": "Stop shoot kind 1",
+        "group": "a874c6fd.06ff38",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Stop SHOOT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "stop",
+        "topicType": "str",
+        "x": 130,
+        "y": 1020,
+        "wires": [
+            [
+                "5d9a0cd1.62db9c"
+            ]
+        ]
+    },
+    {
+        "id": "8cebb90.d075848",
+        "type": "ui_button",
+        "z": "cd55794b.d22868",
+        "name": "Start shoot kind 2",
+        "group": "a874c6fd.06ff38",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Start SHOOT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "start",
+        "topicType": "str",
+        "x": 130,
+        "y": 1100,
+        "wires": [
+            [
+                "cea24319.531ea"
+            ]
+        ]
+    },
+    {
+        "id": "5a74f19a.832898",
+        "type": "ui_button",
+        "z": "cd55794b.d22868",
+        "name": "Stop shoot kind 2",
+        "group": "a874c6fd.06ff38",
+        "order": 7,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Stop SHOOT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "stop",
+        "topicType": "str",
+        "x": 130,
+        "y": 1140,
+        "wires": [
+            [
+                "cea24319.531ea"
+            ]
+        ]
+    },
+    {
+        "id": "15c618bf.9faa27",
+        "type": "ui_button",
+        "z": "cd55794b.d22868",
+        "name": "Start shoot kind 3",
+        "group": "a874c6fd.06ff38",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Start SHOOT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "start",
+        "topicType": "str",
+        "x": 130,
+        "y": 1200,
+        "wires": [
+            [
+                "7e891fcc.370c1"
+            ]
+        ]
+    },
+    {
+        "id": "dd603d2.505184",
+        "type": "ui_button",
+        "z": "cd55794b.d22868",
+        "name": "Stop shoot kind 3",
+        "group": "a874c6fd.06ff38",
+        "order": 10,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Stop SHOOT",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "date",
+        "topic": "stop",
+        "topicType": "str",
+        "x": 130,
+        "y": 1240,
+        "wires": [
+            [
+                "7e891fcc.370c1"
+            ]
+        ]
+    },
+    {
+        "id": "4d030adc.1f70e4",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "name": "Store geselecteerd kind",
+        "func": "const currentKid = msg.payload;\nlet currentStoredKids=flow.get('kindObject')? flow.get('kindObject'): [];\nlet newCurrentStoredKids;\nconst currentDate = new Date();\n\nif(msg.payload===\"reset\"){\n    currentStoredKids = [];\n}\nif(currentKid&&currentKid.isChecked){\n   // TC in + object maken\n   currentKid.TC.push({in: currentDate, out:0});\n  \n   \n   // opslaan in array in flow\n   currentStoredKids.push(currentKid);\n   newCurrentStoredKids = currentStoredKids;\n   \n \n   \n}\nif(currentKid&& !currentKid.isChecked){\n     // TC uit\n     currentKid.TC[currentKid.TC.length-1].out= currentDate;\n     // verwijder het kind uit de array\n    newCurrentStoredKids = currentStoredKids.filter(kid=>kid.title!==currentKid.title);\n  \n  msg.payload = currentKid;\n     \n}\nflow.set('kindObject',newCurrentStoredKids);\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1190,
+        "y": 1060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4869d7c98dd42fc8",
+        "type": "ui_text",
+        "z": "cd55794b.d22868",
+        "g": "36ea01e7.5b4cee",
+        "group": "a874c6fd.06ff38",
+        "order": 8,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "KIND 4",
+        "format": "{{msg.payload[3].Voornaam+\" \"+msg.payload[3].Naam}}",
+        "layout": "col-center",
+        "className": "",
+        "x": 1490,
+        "y": 880,
+        "wires": []
     },
     {
         "id": "f6c22c08.a179b8",
