@@ -209,7 +209,6 @@
         },
         "nodes": [
             "f5f45979.a62ab",
-            "3ba76cde.556fcc",
             "189b2d3.481f453",
             "515a4516.11ad44",
             "b70321b3.0888e8",
@@ -226,68 +225,13 @@
             "342cf577.b7c01a",
             "104c2914.5055b7",
             "be87e69c.8276b",
-            "ac250e1c.9c46"
+            "ac250e1c.9c46",
+            "b69b1feeb8eb3118"
         ],
         "x": 34,
         "y": 2319,
-        "w": 1442,
+        "w": 1492,
         "h": 402
-    },
-    {
-        "id": "63d0b15a.dac21",
-        "type": "group",
-        "z": "cd55794b.d22868",
-        "name": "Organizer: photo devider",
-        "style": {
-            "stroke": "#92d04f",
-            "fill": "#ffdf7f",
-            "label": true,
-            "color": "#6f2fa0"
-        },
-        "nodes": [
-            "84e5a6f2.b5824",
-            "9127c25.51efc4",
-            "399f197f.200646",
-            "733ce738.de6ea8",
-            "79905b52.4997dc",
-            "a99ee38f.a6b578",
-            "9a73dc7f.40b7f8",
-            "c7c04feb.a8213",
-            "6f2cec66.a7471c",
-            "57ba75db.7fc93c",
-            "928b89bd.141ab8",
-            "86143258.41422",
-            "559aa50a.a0f554",
-            "7ce9c288.817244",
-            "54f618c7.c3a2d",
-            "b9ddfd4a.63e618",
-            "c24af91f.5bf868",
-            "75f9642c.a2d394",
-            "45eea892.de9788",
-            "415936b9.619fa8",
-            "cf820012.6011f8",
-            "38cc576f.38301",
-            "7624565e.ee4e2",
-            "d575989b.748d5",
-            "ce80d851.3c9628",
-            "99185059.45982",
-            "ef81887a.f410c",
-            "456ed274.9c9b04",
-            "5b7e2b8e.98c504",
-            "8ab59aa7.a17e58",
-            "9051e559.85469",
-            "fd6925e2.e36a18",
-            "9110bcc1.da0f1",
-            "fade30c3.f1184",
-            "2f83c6ec.6c6502",
-            "a3d58377.b4b4e",
-            "d7905e90.d22e8",
-            "54c44181.90bee"
-        ],
-        "x": 34,
-        "y": 2759,
-        "w": 1652,
-        "h": 602
     },
     {
         "id": "cf3be9f2.e63838",
@@ -347,6 +291,99 @@
         "y": null,
         "w": 40,
         "h": 40
+    },
+    {
+        "id": "69e66f120a09325a",
+        "type": "group",
+        "z": "cd55794b.d22868",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "801445cb6b461039",
+            "fbc1fa5c62d4c2b8",
+            "13a72161d87adf7a",
+            "7dd3c32a.2daca4",
+            "935c641.beb7998",
+            "322c97c2.9c48f",
+            "5d9a0cd1.62db9c",
+            "cea24319.531ea",
+            "7e891fcc.370c1",
+            "4981d535.47513c",
+            "ac83b1eb.7e39f",
+            "8cebb90.d075848",
+            "5a74f19a.832898",
+            "15c618bf.9faa27",
+            "dd603d2.505184",
+            "4d030adc.1f70e4"
+        ],
+        "x": 54,
+        "y": 939,
+        "w": 1362,
+        "h": 422
+    },
+    {
+        "id": "63d0b15a.dac21",
+        "type": "group",
+        "z": "cd55794b.d22868",
+        "name": "Organizer: photo devider",
+        "style": {
+            "stroke": "#92d04f",
+            "fill": "#ffdf7f",
+            "label": true,
+            "color": "#6f2fa0"
+        },
+        "nodes": [
+            "84e5a6f2.b5824",
+            "9127c25.51efc4",
+            "399f197f.200646",
+            "733ce738.de6ea8",
+            "79905b52.4997dc",
+            "a99ee38f.a6b578",
+            "9a73dc7f.40b7f8",
+            "c7c04feb.a8213",
+            "6f2cec66.a7471c",
+            "57ba75db.7fc93c",
+            "928b89bd.141ab8",
+            "86143258.41422",
+            "559aa50a.a0f554",
+            "7ce9c288.817244",
+            "54f618c7.c3a2d",
+            "b9ddfd4a.63e618",
+            "c24af91f.5bf868",
+            "75f9642c.a2d394",
+            "45eea892.de9788",
+            "415936b9.619fa8",
+            "cf820012.6011f8",
+            "38cc576f.38301",
+            "7624565e.ee4e2",
+            "d575989b.748d5",
+            "ce80d851.3c9628",
+            "99185059.45982",
+            "ef81887a.f410c",
+            "456ed274.9c9b04",
+            "5b7e2b8e.98c504",
+            "8ab59aa7.a17e58",
+            "9051e559.85469",
+            "fd6925e2.e36a18",
+            "9110bcc1.da0f1",
+            "fade30c3.f1184",
+            "2f83c6ec.6c6502",
+            "a3d58377.b4b4e",
+            "d7905e90.d22e8",
+            "54c44181.90bee",
+            "8851ce9cbcde22b9"
+        ],
+        "x": 34,
+        "y": 2739,
+        "w": 1412,
+        "h": 602
     },
     {
         "id": "a902a85c0cbfbc56",
@@ -1315,7 +1352,7 @@
         "z": "78dff30b3e70cb71",
         "name": "",
         "label": "",
-        "group": "a1f076be13088232",
+        "group": "12c6183d.6edd78",
         "order": 1,
         "width": 0,
         "height": 0,
@@ -3190,33 +3227,6 @@
         ]
     },
     {
-        "id": "3ba76cde.556fcc",
-        "type": "ui_button",
-        "z": "cd55794b.d22868",
-        "g": "97c1d63a.ce2dc",
-        "name": "",
-        "group": "133ead54.627ddb",
-        "order": 2,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "Create shoot-folders to schoolshoots",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "doneShootArray",
-        "payloadType": "flow",
-        "topic": "/home/nicolaas/Documents/schoolshoots",
-        "topicType": "str",
-        "x": 210,
-        "y": 2460,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "189b2d3.481f453",
         "type": "function",
         "z": "cd55794b.d22868",
@@ -3364,8 +3374,8 @@
         "g": "97c1d63a.ce2dc",
         "name": "maak Fotoshoot map",
         "purpose": "reg",
-        "path": "/home/nicolaas/Documents/schoolshoots",
-        "pathType": "str",
+        "path": "mainPath",
+        "pathType": "msg",
         "foldername": "mainFolderName",
         "foldernameType": "msg",
         "recursive": true,
@@ -3391,7 +3401,7 @@
         "z": "cd55794b.d22868",
         "g": "97c1d63a.ce2dc",
         "name": "maak paths",
-        "func": "const shoot=flow.get('schoolShoot');\nconst date= new Date(shoot.sync);\nconst dateString= `${date.getDate()}-${date.getMonth()+1}-${date.getFullYear()}`;\nconst mainPath = msg.payload.path;\nconst mainFolderName = `${msg.payload.school}_${dateString}`;\nconst folderPath = `${mainPath}/${mainFolderName}`;\nmsg.mainPath = mainPath;\nmsg.folderPath = folderPath;\nmsg.mainFolderName = mainFolderName;\nmsg.shoot=shoot;\nreturn msg;",
+        "func": "const shoot=flow.get('schoolShoot');\nconst date= new Date(shoot.sync);\nconst dateString= `${date.getDate()}-${date.getMonth()+1}-${date.getFullYear()}`;\nconst mainPath = msg.payload.path;\nconst mainFolderName = `${msg.payload.school}_${dateString}`;\nconst folderPath = `${mainPath}\\\\${mainFolderName}`;\nmsg.mainPath = mainPath;\nmsg.folderPath = folderPath;\nmsg.mainFolderName = mainFolderName;\nmsg.shoot=shoot;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -3401,7 +3411,8 @@
         "y": 2560,
         "wires": [
             [
-                "fadcbd40.a4b0a"
+                "fadcbd40.a4b0a",
+                "b69b1feeb8eb3118"
             ]
         ]
     },
@@ -3480,7 +3491,7 @@
         "z": "cd55794b.d22868",
         "g": "97c1d63a.ce2dc",
         "name": "Set schoolShoot variable and PATH",
-        "func": "flow.set('syncPic', msg.payload.sync);\nflow.set('schoolShoot',msg.payload);\nmsg.payload.path= \"/home/nicolaas/Documents/schoolshoots\";\nreturn msg;",
+        "func": "flow.set('syncPic', msg.payload.sync);\nflow.set('schoolShoot',msg.payload);\nmsg.payload.path = `C:\\\\Users\\\\Nicolaas\\\\Documents\\\\schoolshoots`;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -3506,8 +3517,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1380,
-        "y": 2560,
+        "x": 1440,
+        "y": 2540,
         "wires": [
             [
                 "6b61b16d.b5b9b8"
@@ -3575,655 +3586,6 @@
         "wires": [
             [
                 "515a4516.11ad44"
-            ]
-        ]
-    },
-    {
-        "id": "84e5a6f2.b5824",
-        "type": "fs-list",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "zoek shootPics",
-        "path": "/home/nicolaas/Documents/schoolshoots",
-        "pathType": "str",
-        "pattern": "",
-        "patternType": "str",
-        "filter": "all",
-        "recursive": true,
-        "follow": false,
-        "property": "list",
-        "propertyType": "msg",
-        "x": 420,
-        "y": 2800,
-        "wires": [
-            [
-                "a99ee38f.a6b578"
-            ]
-        ]
-    },
-    {
-        "id": "9127c25.51efc4",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "Look for syncPic",
-        "func": "const foldername = msg.payload.title;\nconst standardPath=\"/home/nicolaas/Documents/schoolshoots/\";\nconst newPath= `${standardPath}${foldername}/syncPic`;\nconst dropZonePath = `${standardPath}${foldername}/dropzone`\nconst schoolName= foldername.split('_')[0];\nflow.set('schoolName',schoolName);\nflow.set('dropZonePath',dropZonePath);\n\nmsg.path=newPath;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 340,
-        "y": 2900,
-        "wires": [
-            [
-                "6f2cec66.a7471c"
-            ]
-        ]
-    },
-    {
-        "id": "399f197f.200646",
-        "type": "ui_button",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "group": "a325dee2.cdfca",
-        "order": 2,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "Get All \"schoolshoot\" Folders",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 200,
-        "y": 2800,
-        "wires": [
-            [
-                "84e5a6f2.b5824"
-            ]
-        ]
-    },
-    {
-        "id": "733ce738.de6ea8",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "maak properties en bereken offset",
-        "func": "const timestampSyncPic = msg.payload._exif.tags.CreateDate;\nconst computerTime = flow.get('timeSync');\n//check of er 13 of 10 cijfers zijn,maak er 13 van, dan verschil berekenen.\ntimestampSyncPicWithMs = timestampSyncPic.toString().length > 10?timestampSyncPic:timestampSyncPic*1000;\nconst timeOffset = Number(computerTime) - Number(timestampSyncPicWithMs);\nmsg.timestamp = timestampSyncPic;\nmsg.timeOffset = timeOffset;\nmsg.computerTime = computerTime;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 860,
-        "y": 3320,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "79905b52.4997dc",
-        "type": "debug",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1590,
-        "y": 3060,
-        "wires": []
-    },
-    {
-        "id": "a99ee38f.a6b578",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "folders",
-        "func": "const folders= msg.list;\nconst goodfolders= folders.filter(folder=>folder.split('/').length===1);\nmsg.payload= goodfolders.map(folder=> ({title:folder}));\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 570,
-        "y": 2800,
-        "wires": [
-            [
-                "c7c04feb.a8213"
-            ]
-        ]
-    },
-    {
-        "id": "9a73dc7f.40b7f8",
-        "type": "ui_button",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "group": "12c6183d.6edd78",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "passthru": false,
-        "label": "send to pictime",
-        "tooltip": "",
-        "color": "",
-        "bgcolor": "",
-        "className": "",
-        "icon": "",
-        "payload": "",
-        "payloadType": "str",
-        "topic": "topic",
-        "topicType": "msg",
-        "x": 1100,
-        "y": 3320,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "6f2cec66.a7471c",
-        "type": "fs-list",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "zoek syncPic",
-        "path": "path",
-        "pathType": "msg",
-        "pattern": "",
-        "patternType": "str",
-        "filter": "files",
-        "recursive": true,
-        "follow": true,
-        "property": "list",
-        "propertyType": "msg",
-        "x": 510,
-        "y": 2900,
-        "wires": [
-            [
-                "928b89bd.141ab8"
-            ]
-        ]
-    },
-    {
-        "id": "928b89bd.141ab8",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "make path for syncPic",
-        "func": "const folderPath = msg.path;\nconst syncPicName=msg.list[0];\nconst newPath= `${folderPath}/${syncPicName}`;\n\nmsg.path=newPath;\nmsg.src=newPath;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 700,
-        "y": 2900,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "559aa50a.a0f554",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "Data from exif",
-        "func": "const exif = msg.exif.exif.DateTimeOriginal;\nmsg.payload = exif;\nflow.set('syncPicTime', exif);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1140,
-        "y": 2900,
-        "wires": [
-            [
-                "7ce9c288.817244"
-            ]
-        ]
-    },
-    {
-        "id": "7ce9c288.817244",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "get syncpictime",
-        "func": "const syncPicTime= msg.payload;\nconst dateSplit= syncPicTime.split(' ');\ndateSplit[0] = dateSplit[0].split(':').join('-');\nconst dateJoin=dateSplit.join('T');\nconst dateAddT= dateJoin + 'Z';\nconst time=Date.parse(dateAddT);\n\nmsg.payload= time;\nflow.set('syncPicTime',time);\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1320,
-        "y": 2900,
-        "wires": [
-            [
-                "54f618c7.c3a2d"
-            ]
-        ]
-    },
-    {
-        "id": "54f618c7.c3a2d",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "Make query",
-        "func": "const schoolShoot= msg.payload.title;\n\nconst schoolName= flow.get('schoolName')\nconst query = [{school:schoolName}]\nmsg.payload=query;\nmsg.school= schoolName;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 210,
-        "y": 2960,
-        "wires": [
-            [
-                "b9ddfd4a.63e618"
-            ]
-        ]
-    },
-    {
-        "id": "c24af91f.5bf868",
-        "type": "inject",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 140,
-        "y": 3040,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "75f9642c.a2d394",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "func": "const syncPicTime = flow.get('syncPicTime');\nconst shoot= msg.payload[0];\nflow.set('currentShoot', shoot);\nconst syncPcTime= shoot.sync;\nflow.set('syncPcTime',syncPcTime);\n\nmsg.syncPc = syncPcTime;\n\nmsg.syncPic = syncPicTime;\nconst syncDiff = syncPcTime-syncPicTime;\nmsg.syncDiff = syncDiff;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 620,
-        "y": 2960,
-        "wires": [
-            [
-                "45eea892.de9788"
-            ]
-        ]
-    },
-    {
-        "id": "45eea892.de9788",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "func": "const syncPicTime = flow.get('syncPicTime');\nconst syncPcTime = flow.get('syncPcTime');\nconst currentShoot = flow.get('currentShoot');\nconst dropZonePath = flow.get('dropZonePath');\n\nmsg.syncPic = syncPicTime;\nmsg.syncPc= syncPcTime;\nmsg.dropZonePath= dropZonePath;\n\ndelete currentShoot._id;\ndelete currentShoot.school;\ndelete currentShoot.sync;\n\nmsg.shoot = currentShoot;\n\n\nmsg.syncDiff = syncPcTime - syncPicTime;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 340,
-        "y": 3080,
-        "wires": [
-            [
-                "cf820012.6011f8"
-            ]
-        ]
-    },
-    {
-        "id": "415936b9.619fa8",
-        "type": "split",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "splt": "\\n",
-        "spltType": "str",
-        "arraySplt": "1",
-        "arraySpltType": "len",
-        "stream": false,
-        "addname": "",
-        "x": 850,
-        "y": 3080,
-        "wires": [
-            [
-                "7624565e.ee4e2"
-            ]
-        ]
-    },
-    {
-        "id": "cf820012.6011f8",
-        "type": "fs-list",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "path": "dropZonePath",
-        "pathType": "msg",
-        "pattern": "*",
-        "patternType": "str",
-        "filter": "files",
-        "recursive": false,
-        "follow": true,
-        "property": "list",
-        "propertyType": "msg",
-        "x": 500,
-        "y": 3080,
-        "wires": [
-            [
-                "38cc576f.38301"
-            ]
-        ]
-    },
-    {
-        "id": "38cc576f.38301",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "func": "msg.payload = msg.list;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 700,
-        "y": 3080,
-        "wires": [
-            [
-                "415936b9.619fa8"
-            ]
-        ]
-    },
-    {
-        "id": "7624565e.ee4e2",
-        "type": "delay",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "pauseType": "rate",
-        "timeout": "5",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "10",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "outputs": 1,
-        "x": 1020,
-        "y": 3080,
-        "wires": [
-            [
-                "d575989b.748d5"
-            ]
-        ]
-    },
-    {
-        "id": "d575989b.748d5",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "func": "const dropZonePath = msg.dropZonePath;\n\nconst newPath = dropZonePath + \"/\" + msg.payload;\n\nmsg.payload = newPath;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1180,
-        "y": 3080,
-        "wires": [
-            [
-                "5b7e2b8e.98c504"
-            ]
-        ]
-    },
-    {
-        "id": "ef81887a.f410c",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "Data from exif",
-        "func": "const exif = msg.exif.exif.DateTimeOriginal;\nmsg.payload = exif;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 760,
-        "y": 3160,
-        "wires": [
-            [
-                "456ed274.9c9b04"
-            ]
-        ]
-    },
-    {
-        "id": "456ed274.9c9b04",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "get pictime",
-        "func": "const exif = msg.exif.exif.DateTimeOriginal;\nconst picTime= exif;\nconst dateSplit= picTime.split(' ');\ndateSplit[0] = dateSplit[0].split(':').join('-');\nconst dateJoin=dateSplit.join('T');\nconst dateAddT= dateJoin + 'Z';\nconst time=Date.parse(dateAddT);\n\nmsg.payload= time;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 930,
-        "y": 3160,
-        "wires": [
-            [
-                "9051e559.85469"
-            ]
-        ]
-    },
-    {
-        "id": "5b7e2b8e.98c504",
-        "type": "fs-stats",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "path": "payload",
-        "pathType": "msg",
-        "filename": "filename",
-        "filenameType": "msg",
-        "attr": "",
-        "follow": false,
-        "property": "stats",
-        "propertyType": "msg",
-        "x": 120,
-        "y": 3160,
-        "wires": [
-            [
-                "fade30c3.f1184"
-            ]
-        ]
-    },
-    {
-        "id": "8ab59aa7.a17e58",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "look in shoot for matches",
-        "func": "const picTC = msg.payload;\nconst syncDiff= msg.syncDiff;\nconst shoot = msg.shoot;\n// correct with difference\nconst picTcCorrected = picTC + syncDiff;\nmsg.picTcCorrected = picTcCorrected;\nmsg.tcArray=[];\n\n// filter shoot in new array\n\nconst shootArray = Object.values(shoot);\n\nconst kidsList= shootArray.map(kid =>  {\n    \n   const tcArray =  kid.TC.map(timecode=> timecode.in<picTcCorrected&&timecode.out>picTcCorrected);\n   msg.tcArray.push(tcArray);\n   \n    if( tcArray.find(element=> element===true)){\n        return kid}\n    else{ return null }\n})\n\n\n//const kidsList = shootArray.map(\n//    kid=> kid.TC.map(range=> (range.in<picTcCorrected&&range.out>picTcCorrected)?true:false)?kid:null\n  //  );\n    \nmsg.kidsList = kidsList.filter(val=>val != null);\n msg.shootArray = shootArray;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 250,
-        "y": 3220,
-        "wires": [
-            [
-                "9110bcc1.da0f1"
-            ]
-        ]
-    },
-    {
-        "id": "9051e559.85469",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "PUT IN FAKE TIMESTAMP___TEST",
-        "func": "\nmsg.payload= 1660044174448;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1230,
-        "y": 3160,
-        "wires": [
-            [
-                "8ab59aa7.a17e58"
-            ]
-        ]
-    },
-    {
-        "id": "fd6925e2.e36a18",
-        "type": "file",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "filename": "",
-        "appendNewline": true,
-        "createDir": false,
-        "overwriteFile": "false",
-        "encoding": "none",
-        "x": 350,
-        "y": 3260,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "9110bcc1.da0f1",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "make destination names en paths",
-        "func": "const kidsList = msg.kidsList;\nconst originalPath = msg.originalPath;\n\nconst destinationSplit = originalPath.split(\"/\");\nconst originalPicName = destinationSplit.pop();\n\ndestinationSplit.pop();\n\ndestinationSplit.push('shoot');\n\nconst destinationPath = destinationSplit.join(\"/\");\n\nmsg.destinationPath = destinationPath ; \n\n\nconst destinationList = kidsList.map(kid=> {\n    const fileName= kid.Klascode+\"_\"+kid.KlasNr+\"_\"+kid.Voornaam+\"_\"+kid.Naam;\n    return fileName;\n});\n\nmsg.destinationList=destinationList;\n\ndestinationArray = destinationList.map(element=>  destinationPath +\"/\" +element);\n\nmsg.payload= msg.destinationArray = destinationArray;\n\nmsg.originalPicName = originalPicName;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 540,
-        "y": 3220,
-        "wires": [
-            [
-                "2f83c6ec.6c6502"
-            ]
-        ]
-    },
-    {
-        "id": "fade30c3.f1184",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "add original Path",
-        "func": "const originalPath = msg.payload;\nmsg.originalPath = originalPath;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 290,
-        "y": 3160,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "2f83c6ec.6c6502",
-        "type": "split",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "splt": "\\n",
-        "spltType": "str",
-        "arraySplt": 1,
-        "arraySpltType": "len",
-        "stream": false,
-        "addname": "",
-        "x": 770,
-        "y": 3220,
-        "wires": [
-            [
-                "a3d58377.b4b4e"
-            ]
-        ]
-    },
-    {
-        "id": "a3d58377.b4b4e",
-        "type": "function",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "Make final destination path and list",
-        "func": "let destinationPath = msg.payload;\n\nmsg.destinationPath = destinationPath;\n\nconst destinationList = msg.destinationList;\nmsg.payload = destinationList;\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1000,
-        "y": 3220,
-        "wires": [
-            [
-                "d7905e90.d22e8"
-            ]
-        ]
-    },
-    {
-        "id": "d7905e90.d22e8",
-        "type": "split",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "splt": "\\n",
-        "spltType": "str",
-        "arraySplt": 1,
-        "arraySpltType": "len",
-        "stream": false,
-        "addname": "",
-        "x": 1230,
-        "y": 3220,
-        "wires": [
-            [
-                "54c44181.90bee"
             ]
         ]
     },
@@ -4354,24 +3716,6 @@
         ]
     },
     {
-        "id": "b9ddfd4a.63e618",
-        "type": "mongodb3 in",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "service": "_ext_",
-        "configNode": "7b163364.9970f4",
-        "name": "",
-        "collection": "Shoots",
-        "operation": "find.toArray",
-        "x": 420,
-        "y": 2960,
-        "wires": [
-            [
-                "75f9642c.a2d394"
-            ]
-        ]
-    },
-    {
         "id": "9874743a.add768",
         "type": "ui_list",
         "z": "cd55794b.d22868",
@@ -4461,172 +3805,6 @@
         "wires": [
             [
                 "2b72d07e.5073d"
-            ]
-        ]
-    },
-    {
-        "id": "c7c04feb.a8213",
-        "type": "ui_list",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "group": "a325dee2.cdfca",
-        "name": "",
-        "order": 3,
-        "width": "8",
-        "height": "10",
-        "lineType": "two",
-        "actionType": "click",
-        "allowHTML": false,
-        "outputs": 1,
-        "topic": "",
-        "x": 170,
-        "y": 2900,
-        "wires": [
-            [
-                "9127c25.51efc4",
-                "79905b52.4997dc"
-            ]
-        ]
-    },
-    {
-        "id": "86143258.41422",
-        "type": "exif",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "mode": "normal",
-        "property": "payload",
-        "x": 990,
-        "y": 2900,
-        "wires": [
-            [
-                "559aa50a.a0f554"
-            ]
-        ]
-    },
-    {
-        "id": "99185059.45982",
-        "type": "exif",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "mode": "normal",
-        "property": "payload",
-        "x": 610,
-        "y": 3160,
-        "wires": [
-            [
-                "ef81887a.f410c"
-            ]
-        ]
-    },
-    {
-        "id": "54c44181.90bee",
-        "type": "fs-ops-copy",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "sourcePath": "",
-        "sourcePathType": "str",
-        "sourceFilename": "originalPath",
-        "sourceFilenameType": "msg",
-        "destPath": "destinationPath",
-        "destPathType": "msg",
-        "destFilename": "originalPicName",
-        "destFilenameType": "msg",
-        "link": false,
-        "overwrite": false,
-        "x": 1360,
-        "y": 3220,
-        "wires": [
-            [
-                "79905b52.4997dc"
-            ]
-        ]
-    },
-    {
-        "id": "57ba75db.7fc93c",
-        "type": "jimp-image",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "data": "path",
-        "dataType": "msg",
-        "ret": "b64",
-        "parameter1": "",
-        "parameter1Type": "msg",
-        "parameter2": "",
-        "parameter2Type": "msg",
-        "parameter3": "",
-        "parameter3Type": "msg",
-        "parameter4": "",
-        "parameter4Type": "msg",
-        "parameter5": "",
-        "parameter5Type": "msg",
-        "parameter6": "",
-        "parameter6Type": "msg",
-        "parameter7": "",
-        "parameter7Type": "msg",
-        "parameter8": "",
-        "parameter8Type": "msg",
-        "sendProperty": "payload",
-        "sendPropertyType": "msg",
-        "parameterCount": 0,
-        "jimpFunction": "none",
-        "selectedJimpFunction": {
-            "name": "none",
-            "fn": "none",
-            "description": "Just loads the image.",
-            "parameters": []
-        },
-        "x": 870,
-        "y": 2900,
-        "wires": [
-            [
-                "86143258.41422"
-            ]
-        ]
-    },
-    {
-        "id": "ce80d851.3c9628",
-        "type": "jimp-image",
-        "z": "cd55794b.d22868",
-        "g": "63d0b15a.dac21",
-        "name": "",
-        "data": "payload",
-        "dataType": "msg",
-        "ret": "b64",
-        "parameter1": "",
-        "parameter1Type": "msg",
-        "parameter2": "",
-        "parameter2Type": "msg",
-        "parameter3": "",
-        "parameter3Type": "msg",
-        "parameter4": "",
-        "parameter4Type": "msg",
-        "parameter5": "",
-        "parameter5Type": "msg",
-        "parameter6": "",
-        "parameter6Type": "msg",
-        "parameter7": "",
-        "parameter7Type": "msg",
-        "parameter8": "",
-        "parameter8Type": "msg",
-        "sendProperty": "payload",
-        "sendPropertyType": "msg",
-        "parameterCount": 0,
-        "jimpFunction": "none",
-        "selectedJimpFunction": {
-            "name": "none",
-            "fn": "none",
-            "description": "Just loads the image.",
-            "parameters": []
-        },
-        "x": 470,
-        "y": 3160,
-        "wires": [
-            [
-                "99185059.45982"
             ]
         ]
     },
@@ -4821,9 +3999,10 @@
         "id": "801445cb6b461039",
         "type": "ui_button",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "Start shoot kind 4",
         "group": "a874c6fd.06ff38",
-        "order": 11,
+        "order": 12,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -4837,7 +4016,7 @@
         "payloadType": "date",
         "topic": "start",
         "topicType": "str",
-        "x": 130,
+        "x": 170,
         "y": 1280,
         "wires": [
             [
@@ -4849,9 +4028,10 @@
         "id": "fbc1fa5c62d4c2b8",
         "type": "ui_button",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "Stop shoot kind 4",
         "group": "a874c6fd.06ff38",
-        "order": 12,
+        "order": 13,
         "width": 0,
         "height": 0,
         "passthru": false,
@@ -4865,7 +4045,7 @@
         "payloadType": "date",
         "topic": "stop",
         "topicType": "str",
-        "x": 130,
+        "x": 170,
         "y": 1320,
         "wires": [
             [
@@ -4877,6 +4057,7 @@
         "id": "13a72161d87adf7a",
         "type": "function",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "START/STOP OPNAME KIND 4",
         "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[2];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        \n        doneShootArray.map(kind=>{\n            kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n        });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
         "outputs": 1,
@@ -4884,7 +4065,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 470,
+        "x": 510,
         "y": 1300,
         "wires": [
             [
@@ -4896,6 +4077,7 @@
         "id": "7dd3c32a.2daca4",
         "type": "ui_button",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "Start shoot kind 1",
         "group": "a874c6fd.06ff38",
         "order": 3,
@@ -4912,7 +4094,7 @@
         "payloadType": "date",
         "topic": "start",
         "topicType": "str",
-        "x": 130,
+        "x": 170,
         "y": 980,
         "wires": [
             [
@@ -4924,6 +4106,7 @@
         "id": "935c641.beb7998",
         "type": "ui_list",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "group": "5aa2d225.1cbb4c",
         "name": "Record lijst",
         "order": 2,
@@ -4934,7 +4117,7 @@
         "allowHTML": false,
         "outputs": 0,
         "topic": "",
-        "x": 1280,
+        "x": 1320,
         "y": 1180,
         "wires": []
     },
@@ -4942,6 +4125,7 @@
         "id": "322c97c2.9c48f",
         "type": "function",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "",
         "func": "let doneShootArray = flow.get('doneShootArray');\nlet recordKidArray = doneShootArray.filter(kind=>kind.TC[kind.TC.length-1].out===0);\nlet recordKidArrayForList = recordKidArray.map(kind=> {return{...kind, title: `${kind.Voornaam} ${kind.Naam} ${kind.Klascode}`} });\n\nmsg.payload = recordKidArrayForList;\n\nreturn msg;",
         "outputs": 1,
@@ -4949,7 +4133,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 860,
+        "x": 900,
         "y": 1120,
         "wires": [
             [
@@ -4962,6 +4146,7 @@
         "id": "5d9a0cd1.62db9c",
         "type": "function",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "START/STOP OPNAME KIND 1",
         "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[0];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\ndoneShootArray.push(leerling);\n        \n//newDoneShootArray = doneShootArray.map(kind=>{\n  //          kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n   //     });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
         "outputs": 1,
@@ -4969,7 +4154,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 470,
+        "x": 510,
         "y": 1000,
         "wires": [
             [
@@ -4981,6 +4166,7 @@
         "id": "cea24319.531ea",
         "type": "function",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "START/STOP OPNAME KIND 2",
         "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[1];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        \n        doneShootArray.map(kind=>{\n            kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n        });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
         "outputs": 1,
@@ -4988,7 +4174,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 470,
+        "x": 510,
         "y": 1120,
         "wires": [
             [
@@ -5000,6 +4186,7 @@
         "id": "7e891fcc.370c1",
         "type": "function",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "START/STOP OPNAME KIND 3",
         "func": "const kidsShootArray = flow.get('kidsShootArray');\nlet firstKid = kidsShootArray[2];\n// zoek kind in object\nlet schoolObject = flow.get('schoolObject')\nlet leerling = schoolObject.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\n\nlet doneShootArray = flow.get('doneShootArray')|| [];\nlet recordKid = doneShootArray.filter(kind=>kind.Naam===firstKid.Naam&&kind.Voornaam===firstKid.Voornaam)[0];\nlet newDoneShootArray;\nlet tc = {in:msg.payload, out:0};\n\nif(msg.topic==='start'){\n    if(leerling.TC){\n        if(leerling.TC[leerling.TC.length-1].out===0){\n         return msg\n        }else{\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        \n        doneShootArray.map(kind=>{\n            kind.Naam===leerling.Naam && kind.Voornaam===leerling.Voornaam? leerling : kind\n        });\n        \n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n        msg.record= \"RECORD\";\n        return msg;}\n        \n    }else{\n        leerling.TC = [];\n        leerling.TC.push(tc);\n        doneShootArray.push(leerling);\n        flow.set('doneShootArray',doneShootArray);\n        msg.payload = leerling;\n         msg.record= \"RECORD\";\n        return msg;\n    }\n}\n\n// stop opname kind\nif(msg.topic===\"stop\" && recordKid.TC[recordKid.TC.length-1].out===0){\nconst arrayWithRecordKid = doneShootArray.map(kind=> {if(kind.Naam===leerling.Naam&&kind.Voornaam===leerling.Voornaam){\n    kind.TC[kind.TC.length-1].out = msg.payload;\n    return kind;\n}else{ return kind;\n    }\n});\nflow.set('doneShootArray',arrayWithRecordKid);\n\n}else{\n    msg.payload = \"no record started\";\n}\n\n//if(msg.topic==='stop'&& leerling.TC[firstKid.TC.length-1].out===0){\n    // fill out\n  //  leerling.TC[leerling.TC.length-1].out= msg.payload;\n    //add kid to doneShootArray\n\n\n\nreturn msg;",
         "outputs": 1,
@@ -5007,7 +4194,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 470,
+        "x": 510,
         "y": 1220,
         "wires": [
             [
@@ -5019,6 +4206,7 @@
         "id": "4981d535.47513c",
         "type": "ui_text",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "group": "5aa2d225.1cbb4c",
         "order": 1,
         "width": 0,
@@ -5028,7 +4216,7 @@
         "format": "{{msg.payload.length>=1? \"RECORDING\": \" NOT recording\" }}",
         "layout": "row-spread",
         "className": "",
-        "x": 1270,
+        "x": 1310,
         "y": 1120,
         "wires": []
     },
@@ -5036,6 +4224,7 @@
         "id": "ac83b1eb.7e39f",
         "type": "ui_button",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "Stop shoot kind 1",
         "group": "a874c6fd.06ff38",
         "order": 4,
@@ -5052,7 +4241,7 @@
         "payloadType": "date",
         "topic": "stop",
         "topicType": "str",
-        "x": 130,
+        "x": 170,
         "y": 1020,
         "wires": [
             [
@@ -5064,6 +4253,7 @@
         "id": "8cebb90.d075848",
         "type": "ui_button",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "Start shoot kind 2",
         "group": "a874c6fd.06ff38",
         "order": 6,
@@ -5080,7 +4270,7 @@
         "payloadType": "date",
         "topic": "start",
         "topicType": "str",
-        "x": 130,
+        "x": 170,
         "y": 1100,
         "wires": [
             [
@@ -5092,6 +4282,7 @@
         "id": "5a74f19a.832898",
         "type": "ui_button",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "Stop shoot kind 2",
         "group": "a874c6fd.06ff38",
         "order": 7,
@@ -5108,7 +4299,7 @@
         "payloadType": "date",
         "topic": "stop",
         "topicType": "str",
-        "x": 130,
+        "x": 170,
         "y": 1140,
         "wires": [
             [
@@ -5120,6 +4311,7 @@
         "id": "15c618bf.9faa27",
         "type": "ui_button",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "Start shoot kind 3",
         "group": "a874c6fd.06ff38",
         "order": 9,
@@ -5136,7 +4328,7 @@
         "payloadType": "date",
         "topic": "start",
         "topicType": "str",
-        "x": 130,
+        "x": 170,
         "y": 1200,
         "wires": [
             [
@@ -5148,6 +4340,7 @@
         "id": "dd603d2.505184",
         "type": "ui_button",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "Stop shoot kind 3",
         "group": "a874c6fd.06ff38",
         "order": 10,
@@ -5164,7 +4357,7 @@
         "payloadType": "date",
         "topic": "stop",
         "topicType": "str",
-        "x": 130,
+        "x": 170,
         "y": 1240,
         "wires": [
             [
@@ -5176,6 +4369,7 @@
         "id": "4d030adc.1f70e4",
         "type": "function",
         "z": "cd55794b.d22868",
+        "g": "69e66f120a09325a",
         "name": "Store geselecteerd kind",
         "func": "const currentKid = msg.payload;\nlet currentStoredKids=flow.get('kindObject')? flow.get('kindObject'): [];\nlet newCurrentStoredKids;\nconst currentDate = new Date();\n\nif(msg.payload===\"reset\"){\n    currentStoredKids = [];\n}\nif(currentKid&&currentKid.isChecked){\n   // TC in + object maken\n   currentKid.TC.push({in: currentDate, out:0});\n  \n   \n   // opslaan in array in flow\n   currentStoredKids.push(currentKid);\n   newCurrentStoredKids = currentStoredKids;\n   \n \n   \n}\nif(currentKid&& !currentKid.isChecked){\n     // TC uit\n     currentKid.TC[currentKid.TC.length-1].out= currentDate;\n     // verwijder het kind uit de array\n    newCurrentStoredKids = currentStoredKids.filter(kid=>kid.title!==currentKid.title);\n  \n  msg.payload = currentKid;\n     \n}\nflow.set('kindObject',newCurrentStoredKids);\n\nreturn msg;",
         "outputs": 1,
@@ -5183,7 +4377,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1190,
+        "x": 1230,
         "y": 1060,
         "wires": [
             []
@@ -5195,7 +4389,7 @@
         "z": "cd55794b.d22868",
         "g": "36ea01e7.5b4cee",
         "group": "a874c6fd.06ff38",
-        "order": 8,
+        "order": 11,
         "width": 0,
         "height": 0,
         "name": "",
@@ -5206,6 +4400,879 @@
         "x": 1490,
         "y": 880,
         "wires": []
+    },
+    {
+        "id": "b69b1feeb8eb3118",
+        "type": "debug",
+        "z": "cd55794b.d22868",
+        "g": "97c1d63a.ce2dc",
+        "name": "debug 13",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 960,
+        "y": 2660,
+        "wires": []
+    },
+    {
+        "id": "84e5a6f2.b5824",
+        "type": "fs-list",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "zoek shootPics",
+        "path": "path",
+        "pathType": "msg",
+        "pattern": "",
+        "patternType": "str",
+        "filter": "all",
+        "recursive": true,
+        "follow": false,
+        "property": "list",
+        "propertyType": "msg",
+        "x": 620,
+        "y": 2780,
+        "wires": [
+            [
+                "a99ee38f.a6b578"
+            ]
+        ]
+    },
+    {
+        "id": "9127c25.51efc4",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "Look for syncPic",
+        "func": "const foldername = msg.payload.title;\nconst standardPath = flow.get('mainOrganizerPath') ? flow.get('mainOrganizerPath') : \"C:\\\\Users\\\\Nicolaas\\\\Documents\\\\schoolshoots\";\nconst newPath= `${standardPath}\\\\${foldername}\\\\syncPic`;\nconst dropZonePath = `${standardPath}\\\\${foldername}\\\\dropzone`\nconst schoolName= foldername.split('_')[0];\nflow.set('schoolName',schoolName);\nflow.set('dropZonePath',dropZonePath);\n\nmsg.path=newPath;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 2880,
+        "wires": [
+            [
+                "6f2cec66.a7471c"
+            ]
+        ]
+    },
+    {
+        "id": "399f197f.200646",
+        "type": "ui_button",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "group": "a325dee2.cdfca",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "Get All \"schoolshoot\" Folders",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 200,
+        "y": 2780,
+        "wires": [
+            [
+                "8851ce9cbcde22b9"
+            ]
+        ]
+    },
+    {
+        "id": "733ce738.de6ea8",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "maak properties en bereken offset",
+        "func": "const timestampSyncPic = msg.payload._exif.tags.CreateDate;\nconst computerTime = flow.get('timeSync');\n//check of er 13 of 10 cijfers zijn,maak er 13 van, dan verschil berekenen.\ntimestampSyncPicWithMs = timestampSyncPic.toString().length > 10?timestampSyncPic:timestampSyncPic*1000;\nconst timeOffset = Number(computerTime) - Number(timestampSyncPicWithMs);\nmsg.timestamp = timestampSyncPic;\nmsg.timeOffset = timeOffset;\nmsg.computerTime = computerTime;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 860,
+        "y": 3300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "79905b52.4997dc",
+        "type": "debug",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1250,
+        "y": 2980,
+        "wires": []
+    },
+    {
+        "id": "a99ee38f.a6b578",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "folders",
+        "func": "const folders= msg.list;\nconst goodfolders= folders.filter(folder=>folder.split('/').length===1);\nmsg.payload= goodfolders.map(folder=> ({title:folder}));\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 2780,
+        "wires": [
+            [
+                "c7c04feb.a8213"
+            ]
+        ]
+    },
+    {
+        "id": "9a73dc7f.40b7f8",
+        "type": "ui_button",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "group": "12c6183d.6edd78",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "send to pictime",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 1100,
+        "y": 3300,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c7c04feb.a8213",
+        "type": "ui_list",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "group": "a325dee2.cdfca",
+        "name": "",
+        "order": 3,
+        "width": "8",
+        "height": "10",
+        "lineType": "two",
+        "actionType": "click",
+        "allowHTML": false,
+        "outputs": 1,
+        "topic": "",
+        "x": 170,
+        "y": 2880,
+        "wires": [
+            [
+                "9127c25.51efc4"
+            ]
+        ]
+    },
+    {
+        "id": "6f2cec66.a7471c",
+        "type": "fs-list",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "zoek syncPic",
+        "path": "path",
+        "pathType": "msg",
+        "pattern": "",
+        "patternType": "str",
+        "filter": "files",
+        "recursive": true,
+        "follow": true,
+        "property": "list",
+        "propertyType": "msg",
+        "x": 510,
+        "y": 2880,
+        "wires": [
+            [
+                "928b89bd.141ab8"
+            ]
+        ]
+    },
+    {
+        "id": "57ba75db.7fc93c",
+        "type": "jimp-image",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "data": "path",
+        "dataType": "msg",
+        "ret": "b64",
+        "parameter1": "",
+        "parameter1Type": "msg",
+        "parameter2": "",
+        "parameter2Type": "msg",
+        "parameter3": "",
+        "parameter3Type": "msg",
+        "parameter4": "",
+        "parameter4Type": "msg",
+        "parameter5": "",
+        "parameter5Type": "msg",
+        "parameter6": "",
+        "parameter6Type": "msg",
+        "parameter7": "",
+        "parameter7Type": "msg",
+        "parameter8": "",
+        "parameter8Type": "msg",
+        "sendProperty": "payload",
+        "sendPropertyType": "msg",
+        "parameterCount": 0,
+        "jimpFunction": "none",
+        "selectedJimpFunction": {
+            "name": "none",
+            "fn": "none",
+            "description": "Just loads the image.",
+            "parameters": []
+        },
+        "x": 870,
+        "y": 2880,
+        "wires": [
+            [
+                "86143258.41422"
+            ]
+        ]
+    },
+    {
+        "id": "928b89bd.141ab8",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "make path for syncPic",
+        "func": "const folderPath = msg.path;\nconst syncPicName=msg.list[0];\nconst newPath= `${folderPath}\\\\${syncPicName}`;\n\nmsg.path=newPath;\nmsg.src=newPath;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 2880,
+        "wires": [
+            [
+                "57ba75db.7fc93c"
+            ]
+        ]
+    },
+    {
+        "id": "86143258.41422",
+        "type": "exif",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "mode": "normal",
+        "property": "payload",
+        "x": 990,
+        "y": 2880,
+        "wires": [
+            [
+                "559aa50a.a0f554"
+            ]
+        ]
+    },
+    {
+        "id": "559aa50a.a0f554",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "Data from exif",
+        "func": "const exif = msg.exif.exif.DateTimeOriginal;\nmsg.payload = exif;\nflow.set('syncPicTime', exif);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1140,
+        "y": 2880,
+        "wires": [
+            [
+                "7ce9c288.817244"
+            ]
+        ]
+    },
+    {
+        "id": "7ce9c288.817244",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "get syncpictime",
+        "func": "const syncPicTime= msg.payload;\nconst dateSplit= syncPicTime.split(' ');\ndateSplit[0] = dateSplit[0].split(':').join('-');\nconst dateJoin=dateSplit.join('T');\nconst dateAddT= dateJoin + 'Z';\nconst time=Date.parse(dateAddT);\n\nmsg.payload= time;\nflow.set('syncPicTime',time);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1320,
+        "y": 2880,
+        "wires": [
+            [
+                "54f618c7.c3a2d"
+            ]
+        ]
+    },
+    {
+        "id": "54f618c7.c3a2d",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "Make query",
+        "func": "const schoolShoot= msg.payload.title;\n\nconst schoolName= flow.get('schoolName')\nconst query = [{school:schoolName}]\nmsg.payload=query;\nmsg.school= schoolName;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 210,
+        "y": 2940,
+        "wires": [
+            [
+                "b9ddfd4a.63e618"
+            ]
+        ]
+    },
+    {
+        "id": "b9ddfd4a.63e618",
+        "type": "mongodb3 in",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "service": "_ext_",
+        "configNode": "7b163364.9970f4",
+        "name": "",
+        "collection": "Shoots",
+        "operation": "find.toArray",
+        "x": 420,
+        "y": 2940,
+        "wires": [
+            [
+                "75f9642c.a2d394"
+            ]
+        ]
+    },
+    {
+        "id": "c24af91f.5bf868",
+        "type": "inject",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 140,
+        "y": 3020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "75f9642c.a2d394",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "func": "const syncPicTime = flow.get('syncPicTime');\nconst shoot= msg.payload[0];\nflow.set('currentShoot', shoot);\nconst syncPcTime= shoot.sync;\nflow.set('syncPcTime',syncPcTime);\n\nmsg.syncPc = syncPcTime;\n\nmsg.syncPic = syncPicTime;\nconst syncDiff = syncPcTime-syncPicTime;\nmsg.syncDiff = syncDiff;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 2940,
+        "wires": [
+            [
+                "45eea892.de9788"
+            ]
+        ]
+    },
+    {
+        "id": "45eea892.de9788",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "func": "const syncPicTime = flow.get('syncPicTime');\nconst syncPcTime = flow.get('syncPcTime');\nconst currentShoot = flow.get('currentShoot');\nconst dropZonePath = flow.get('dropZonePath');\n\nmsg.syncPic = syncPicTime;\nmsg.syncPc= syncPcTime;\nmsg.dropZonePath= dropZonePath;\n\ndelete currentShoot._id;\ndelete currentShoot.school;\ndelete currentShoot.sync;\n\nmsg.shoot = currentShoot;\n\n\nmsg.syncDiff = syncPcTime - syncPicTime;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 3060,
+        "wires": [
+            [
+                "cf820012.6011f8"
+            ]
+        ]
+    },
+    {
+        "id": "415936b9.619fa8",
+        "type": "split",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": "1",
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 850,
+        "y": 3060,
+        "wires": [
+            [
+                "7624565e.ee4e2"
+            ]
+        ]
+    },
+    {
+        "id": "cf820012.6011f8",
+        "type": "fs-list",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "path": "dropZonePath",
+        "pathType": "msg",
+        "pattern": "*",
+        "patternType": "str",
+        "filter": "files",
+        "recursive": false,
+        "follow": true,
+        "property": "list",
+        "propertyType": "msg",
+        "x": 500,
+        "y": 3060,
+        "wires": [
+            [
+                "38cc576f.38301",
+                "79905b52.4997dc"
+            ]
+        ]
+    },
+    {
+        "id": "38cc576f.38301",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "func": "msg.payload = msg.list;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 3060,
+        "wires": [
+            [
+                "415936b9.619fa8"
+            ]
+        ]
+    },
+    {
+        "id": "7624565e.ee4e2",
+        "type": "delay",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "pauseType": "rate",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "10",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "outputs": 1,
+        "x": 1020,
+        "y": 3060,
+        "wires": [
+            [
+                "d575989b.748d5"
+            ]
+        ]
+    },
+    {
+        "id": "d575989b.748d5",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "func": "const dropZonePath = msg.dropZonePath;\n\nconst newPath = dropZonePath + \"\\\\\" + msg.payload;\n\nmsg.payload = newPath;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1180,
+        "y": 3060,
+        "wires": [
+            [
+                "5b7e2b8e.98c504"
+            ]
+        ]
+    },
+    {
+        "id": "ce80d851.3c9628",
+        "type": "jimp-image",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "data": "payload",
+        "dataType": "msg",
+        "ret": "b64",
+        "parameter1": "",
+        "parameter1Type": "msg",
+        "parameter2": "",
+        "parameter2Type": "msg",
+        "parameter3": "",
+        "parameter3Type": "msg",
+        "parameter4": "",
+        "parameter4Type": "msg",
+        "parameter5": "",
+        "parameter5Type": "msg",
+        "parameter6": "",
+        "parameter6Type": "msg",
+        "parameter7": "",
+        "parameter7Type": "msg",
+        "parameter8": "",
+        "parameter8Type": "msg",
+        "sendProperty": "payload",
+        "sendPropertyType": "msg",
+        "parameterCount": 0,
+        "jimpFunction": "none",
+        "selectedJimpFunction": {
+            "name": "none",
+            "fn": "none",
+            "description": "Just loads the image.",
+            "parameters": []
+        },
+        "x": 470,
+        "y": 3140,
+        "wires": [
+            [
+                "99185059.45982"
+            ]
+        ]
+    },
+    {
+        "id": "99185059.45982",
+        "type": "exif",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "mode": "normal",
+        "property": "payload",
+        "x": 610,
+        "y": 3140,
+        "wires": [
+            [
+                "ef81887a.f410c"
+            ]
+        ]
+    },
+    {
+        "id": "ef81887a.f410c",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "Data from exif",
+        "func": "const exif = msg.exif.exif.DateTimeOriginal;\nmsg.payload = exif;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 3140,
+        "wires": [
+            [
+                "456ed274.9c9b04"
+            ]
+        ]
+    },
+    {
+        "id": "456ed274.9c9b04",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "get pictime",
+        "func": "const exif = msg.exif.exif.DateTimeOriginal;\nconst picTime= exif;\nconst dateSplit= picTime.split(' ');\ndateSplit[0] = dateSplit[0].split(':').join('-');\nconst dateJoin=dateSplit.join('T');\nconst dateAddT= dateJoin + 'Z';\nconst time=Date.parse(dateAddT);\n\nmsg.payload= time;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 930,
+        "y": 3140,
+        "wires": [
+            [
+                "8ab59aa7.a17e58"
+            ]
+        ]
+    },
+    {
+        "id": "5b7e2b8e.98c504",
+        "type": "fs-stats",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "path": "payload",
+        "pathType": "msg",
+        "filename": "filename",
+        "filenameType": "msg",
+        "attr": "",
+        "follow": false,
+        "property": "stats",
+        "propertyType": "msg",
+        "x": 120,
+        "y": 3140,
+        "wires": [
+            [
+                "fade30c3.f1184"
+            ]
+        ]
+    },
+    {
+        "id": "8ab59aa7.a17e58",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "look in shoot for matches",
+        "func": "const picTC = msg.payload;\nconst syncDiff= msg.syncDiff;\nconst shoot = msg.shoot;\n// correct with difference\nconst picTcCorrected = picTC + syncDiff;\nmsg.picTcCorrected = picTcCorrected;\nmsg.tcArray=[];\n\n// filter shoot in new array\n\nconst shootArray = Object.values(shoot);\n\nconst kidsList= shootArray.map(kid =>  {\n    \n   const tcArray =  kid.TC.map(timecode=> timecode.in<picTcCorrected&&timecode.out>picTcCorrected);\n   msg.tcArray.push(tcArray);\n   \n    if( tcArray.find(element=> element===true)){\n        return kid}\n    else{ return null }\n})\n\n\n//const kidsList = shootArray.map(\n//    kid=> kid.TC.map(range=> (range.in<picTcCorrected&&range.out>picTcCorrected)?true:false)?kid:null\n  //  );\n    \nmsg.kidsList = kidsList.filter(val=>val != null);\n msg.shootArray = shootArray;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 250,
+        "y": 3200,
+        "wires": [
+            [
+                "9110bcc1.da0f1"
+            ]
+        ]
+    },
+    {
+        "id": "9051e559.85469",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "PUT IN FAKE TIMESTAMP___TEST",
+        "func": "\nmsg.payload= 1660044174448;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1230,
+        "y": 3140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "fd6925e2.e36a18",
+        "type": "file",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "filename": "",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 350,
+        "y": 3240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9110bcc1.da0f1",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "make destination names en paths",
+        "func": "const kidsList = msg.kidsList;\nconst originalPath = msg.originalPath;\n\nconst destinationSplit = originalPath.split(\"/\");\nconst originalPicName = destinationSplit.pop();\n\ndestinationSplit.pop();\n\ndestinationSplit.push('shoot');\n\nconst destinationPath = destinationSplit.join(\"/\");\n\nmsg.destinationPath = destinationPath ; \n\n\nconst destinationList = kidsList.map(kid=> {\n    const fileName= kid.Klascode+\"_\"+kid.KlasNr+\"_\"+kid.Voornaam+\"_\"+kid.Naam;\n    return fileName;\n});\n\nmsg.destinationList=destinationList;\n\ndestinationArray = destinationList.map(element=>  destinationPath +\"/\" +element);\n\nmsg.payload= msg.destinationArray = destinationArray;\n\nmsg.originalPicName = originalPicName;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 540,
+        "y": 3200,
+        "wires": [
+            [
+                "2f83c6ec.6c6502"
+            ]
+        ]
+    },
+    {
+        "id": "fade30c3.f1184",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "add original Path",
+        "func": "const originalPath = msg.payload;\nmsg.originalPath = originalPath;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 290,
+        "y": 3140,
+        "wires": [
+            [
+                "ce80d851.3c9628"
+            ]
+        ]
+    },
+    {
+        "id": "2f83c6ec.6c6502",
+        "type": "split",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 770,
+        "y": 3200,
+        "wires": [
+            [
+                "a3d58377.b4b4e"
+            ]
+        ]
+    },
+    {
+        "id": "a3d58377.b4b4e",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "Make final destination path and list",
+        "func": "let destinationPath = msg.payload;\n\nmsg.destinationPath = destinationPath;\n\nconst destinationList = msg.destinationList;\nmsg.payload = destinationList;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1000,
+        "y": 3200,
+        "wires": [
+            [
+                "d7905e90.d22e8"
+            ]
+        ]
+    },
+    {
+        "id": "d7905e90.d22e8",
+        "type": "split",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 1230,
+        "y": 3200,
+        "wires": [
+            [
+                "54c44181.90bee"
+            ]
+        ]
+    },
+    {
+        "id": "54c44181.90bee",
+        "type": "fs-ops-copy",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "",
+        "sourcePath": "",
+        "sourcePathType": "str",
+        "sourceFilename": "originalPath",
+        "sourceFilenameType": "msg",
+        "destPath": "destinationPath",
+        "destPathType": "msg",
+        "destFilename": "originalPicName",
+        "destFilenameType": "msg",
+        "link": false,
+        "overwrite": false,
+        "x": 1360,
+        "y": 3200,
+        "wires": [
+            [
+                "79905b52.4997dc"
+            ]
+        ]
+    },
+    {
+        "id": "8851ce9cbcde22b9",
+        "type": "function",
+        "z": "cd55794b.d22868",
+        "g": "63d0b15a.dac21",
+        "name": "put in path",
+        "func": "const path = \"C:\\\\Users\\\\Nicolaas\\\\Documents\\\\schoolshoots\";\nflow.set('mainOrganizerPath', path)\nmsg.path= path;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 430,
+        "y": 2780,
+        "wires": [
+            [
+                "84e5a6f2.b5824"
+            ]
+        ]
     },
     {
         "id": "f6c22c08.a179b8",
