@@ -84,9 +84,7 @@
             "2a0d7908.87dbde"
         ],
         "x": 74,
-        "y": 2119,
-        "w": 912,
-        "h": 182
+        "y": 2119
     },
     {
         "id": "ad8faa87.ec0ee8",
@@ -115,9 +113,7 @@
             "28701bdc.464854"
         ],
         "x": 14,
-        "y": 1359,
-        "w": 1532,
-        "h": 222
+        "y": 1359
     },
     {
         "id": "36ea01e7.5b4cee",
@@ -160,9 +156,7 @@
             "4869d7c98dd42fc8"
         ],
         "x": 34,
-        "y": 259,
-        "w": 1532,
-        "h": 662
+        "y": 259
     },
     {
         "id": "9832714f.f82cf",
@@ -192,9 +186,7 @@
             "a62cc615.c13da8"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1282,
-        "h": 362
+        "y": 1679
     },
     {
         "id": "97c1d63a.ce2dc",
@@ -229,9 +221,7 @@
             "b69b1feeb8eb3118"
         ],
         "x": 34,
-        "y": 2319,
-        "w": 1492,
-        "h": 402
+        "y": 2319
     },
     {
         "id": "cf3be9f2.e63838",
@@ -252,9 +242,7 @@
             "9be7f92d.932f38"
         ],
         "x": 14,
-        "y": 79,
-        "w": 892,
-        "h": 142
+        "y": 79
     },
     {
         "id": "34219648.68b2d2",
@@ -269,9 +257,7 @@
         },
         "nodes": [],
         "x": 34,
-        "y": 919,
-        "w": 112,
-        "h": 40
+        "y": 919
     },
     {
         "id": "14b0641abf5a232d",
@@ -287,10 +273,8 @@
             "color": "#a4a4a4"
         },
         "nodes": [],
-        "x": null,
-        "y": null,
-        "w": 40,
-        "h": 40
+        "x": 0,
+        "y": 0
     },
     {
         "id": "69e66f120a09325a",
@@ -324,9 +308,7 @@
             "4d030adc.1f70e4"
         ],
         "x": 54,
-        "y": 939,
-        "w": 1362,
-        "h": 422
+        "y": 939
     },
     {
         "id": "63d0b15a.dac21",
@@ -381,9 +363,7 @@
             "8851ce9cbcde22b9"
         ],
         "x": 34,
-        "y": 2739,
-        "w": 1412,
-        "h": 602
+        "y": 2739
     },
     {
         "id": "a902a85c0cbfbc56",
@@ -652,7 +632,9 @@
         "tab": "bce487c9.3c55b",
         "order": 1,
         "disp": true,
-        "width": 6
+        "width": "20",
+        "collapse": false,
+        "className": ""
     },
     {
         "id": "e83db3b5.066688",
@@ -1154,30 +1136,8 @@
         "y": 80,
         "wires": [
             [
-                "2db078ea981cf6b8",
-                "6a9008cda546d34b"
+                "2db078ea981cf6b8"
             ]
-        ]
-    },
-    {
-        "id": "6a9008cda546d34b",
-        "type": "ui_template",
-        "z": "78dff30b3e70cb71",
-        "group": "ca7306b84a680de1",
-        "name": "",
-        "order": 1,
-        "width": "0",
-        "height": "0",
-        "format": "<div ng-bind-html=\"msg.payload\"></div>",
-        "storeOutMessages": true,
-        "fwdInMessages": true,
-        "resendOnRefresh": true,
-        "templateScope": "local",
-        "className": "",
-        "x": 1160,
-        "y": 80,
-        "wires": [
-            []
         ]
     },
     {
@@ -1192,7 +1152,6 @@
         "y": 500,
         "wires": [
             [
-                "f684089fd381e9ea",
                 "da49a8cd08952267"
             ]
         ]
@@ -1501,7 +1460,7 @@
         "cancel": "cancel",
         "topic": "topic",
         "topicType": "msg",
-        "splitLayout": "",
+        "splitLayout": true,
         "className": "",
         "x": 310,
         "y": 500,
@@ -1525,9 +1484,7 @@
         "x": 370,
         "y": 600,
         "wires": [
-            [
-                "38fe77f0958bdf5c"
-            ]
+            []
         ]
     },
     {
@@ -1560,22 +1517,6 @@
         ]
     },
     {
-        "id": "38fe77f0958bdf5c",
-        "type": "debug",
-        "z": "78dff30b3e70cb71",
-        "name": "debug 11",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 540,
-        "y": 600,
-        "wires": []
-    },
-    {
         "id": "d96607f2ec3a1503",
         "type": "http request",
         "z": "78dff30b3e70cb71",
@@ -1601,9 +1542,7 @@
         "x": 480,
         "y": 720,
         "wires": [
-            [
-                "f684089fd381e9ea"
-            ]
+            []
         ]
     },
     {
@@ -1634,23 +1573,6 @@
                 "d96607f2ec3a1503"
             ]
         ]
-    },
-    {
-        "id": "f684089fd381e9ea",
-        "type": "debug",
-        "z": "78dff30b3e70cb71",
-        "name": "debug 12",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1040,
-        "y": 640,
-        "wires": []
     },
     {
         "id": "79b10c8a9e01be37",
@@ -3845,7 +3767,7 @@
         "name": "",
         "collection": "Scholen",
         "operation": "insertOne",
-        "x": 780,
+        "x": 800,
         "y": 120,
         "wires": [
             []
@@ -5275,19 +5197,6 @@
         ]
     },
     {
-        "id": "f6c22c08.a179b8",
-        "type": "watch",
-        "z": "e4762531.a573f8",
-        "name": "Fotoposter Server",
-        "files": "/home/nicolaas/Fotoposter Uploads/print service",
-        "recursive": true,
-        "x": 130,
-        "y": 60,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "18bf67af.237bc8",
         "type": "function",
         "z": "e4762531.a573f8",
@@ -5445,7 +5354,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 330,
+        "x": 360,
         "y": 300,
         "wires": [
             []
@@ -6179,7 +6088,7 @@
         "type": "watch",
         "z": "e4762531.a573f8",
         "name": "TaskBasket",
-        "files": "/home/nicolaas/Fotoposter Uploads/taskBasket",
+        "files": "C:\\Users\\Nicolaas\\Documents\\taskBasket",
         "recursive": true,
         "x": 110,
         "y": 120,
@@ -6269,7 +6178,7 @@
         "follow": true,
         "property": "stats",
         "propertyType": "msg",
-        "x": 920,
+        "x": 940,
         "y": 260,
         "wires": [
             [
